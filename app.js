@@ -1,4 +1,4 @@
-var express = require('/lib/node_modules/express');
+var express = require('express');
 var app = express();
 
 app.get('/', function (req, res) {
